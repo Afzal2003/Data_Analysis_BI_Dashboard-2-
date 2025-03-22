@@ -95,7 +95,7 @@ Revenue per Category = CALCULATE(SUM(Sales[Revenue]), FILTER(Product[Category] =
 
 ## Project Demo
 
-<a href="[https://github.com/Afzal2003/Data_Analysis_Dashboard/blob/main/Sales%20Analysis%20Power%20BI%20Dashboard%20Image.jpeg](https://github.com/Afzal2003/Data_Analysis_BI_Dashboard-2-/blob/main/Food%20%26%20Beverages%20sales%20BI%20Project.pbit)">View Dashboard</a>
+<a href="https://github.com/Afzal2003/Data_Analysis_BI_Dashboard-2-/blob/main/Food%20%26%20Beverages%20sales%20BI%20Project.pbit">View Dashboard</a>
 
 
 ## Dashboard
