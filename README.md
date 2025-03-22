@@ -65,3 +65,32 @@ Revenue per Category = CALCULATE(SUM(Sales[Revenue]), FILTER(Product[Category] =
 🔹 Add company branding & themes for a professional look.
 
 🔹 Publish the report to Power BI Service and share insights.
+
+## 📊 Dashboard Design & Features
+### The dashboard is built with a clean and interactive layout, including:
+
+🔹 Revenue Breakdown: Year-wise & channel-wise revenue trends
+
+🔹 Sales Team Performance: Sales by supervisors, managers & salespersons
+
+🔹 Category Analysis: Food vs. Drink sales insights
+
+🔹 Order & Quantity Metrics: Understanding total sales volume
+
+🔹 Geographical & Managerial Performance: Contribution analysis
+
+
+## 📊 Insights & Findings
+
+🔍 Revenue Trends: Sales peaked in 2020 with $10.2M revenue, but a decline was observed in 2021.
+
+🔍 Top Contributors: Diego Araujo & Diego Carvalho led the revenue generation.
+
+🔍 Channel Performance: Distributors drove the highest sales, followed by online and retail channels.
+
+🔍 Category Insights: 91.1% of sales came from Food products, while Drinks contributed 8.9%.
+
+🔍 Salesperson Performance: Carla Ferreira was the top-performing salesperson with $4.7M revenue.
+
+## ✅ Conclusion
+This Power BI dashboard provides deep insights into sales performance for the food & beverage industry. It helps businesses track revenue trends, product performance, and sales efficiency. Future improvements can include customer segmentation, seasonal trend analysis, and predictive modeling for better decision-making.
