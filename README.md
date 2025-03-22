@@ -92,5 +92,16 @@ Revenue per Category = CALCULATE(SUM(Sales[Revenue]), FILTER(Product[Category] =
 
 🔍 Salesperson Performance: Carla Ferreira was the top-performing salesperson with $4.7M revenue.
 
+
+## Project Demo
+
+<a href="[https://github.com/Afzal2003/Data_Analysis_Dashboard/blob/main/Sales%20Analysis%20Power%20BI%20Dashboard%20Image.jpeg](https://github.com/Afzal2003/Data_Analysis_BI_Dashboard-2-/blob/main/Food%20%26%20Beverages%20sales%20BI%20Project.pbit)">View Dashboard</a>
+
+
+## Dashboard
+
+![food   Beverages Power BI Dashboard Image](https://github.com/user-attachments/assets/0c5de3fb-ad2a-44e2-a905-69df804dcc75)
+
+
 ## ✅ Conclusion
 This Power BI dashboard provides deep insights into sales performance for the food & beverage industry. It helps businesses track revenue trends, product performance, and sales efficiency. Future improvements can include customer segmentation, seasonal trend analysis, and predictive modeling for better decision-making.
